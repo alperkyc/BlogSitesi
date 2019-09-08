@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Iletisim";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section id="content">
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6075.315509849113!2d26.673931!3d40.416432!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5513c67b7a23729d!2sGelibolu+Mevlevihane!5e0!3m2!1str!2str!4v1555707204260!5m2!1str!2str" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h4>Formu doldurarak bize ulaşabilirsiniz. </h4>
+               
+
+                <div class="alert-info" >@ViewBag.Uyari</div>
+                
+                <form action="/Home/Iletisim/" method="post" role="form" class="contactForm">
+                    <div class="form-group">
+                        <input type="text" name="adsoyad" class="form-control" id="name" placeholder="Adınız" data-rule="minlen:4" data-msg="Lütfen en az 4 karakter giriniz" required />
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" data-rule="email" required />
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="konu" id="subject" placeholder="Konu" data-rule="minlen:4" required />
+                        <div class="validation"></div>
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" name="mesaj" rows="5" data-rule="required" required placeholder="Mesajınız"></textarea>
+                        <div class="validation"></div>
+                    </div>
+
+                    <div class="text-center"><button type="submit" class="btn btn-theme">Gönder</button></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

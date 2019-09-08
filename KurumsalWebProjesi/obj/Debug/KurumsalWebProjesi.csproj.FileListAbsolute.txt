@@ -1,0 +1,223 @@
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll.config
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.pdb
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe.config
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.rsp
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe.config
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.rsp
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.AppContext.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Console.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe.config
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.rsp
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csprojAssemblyReference.cache
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CopyComplete
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.pdb
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ALPER\Desktop\UDEMY MVC\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll.config
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.pdb
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe.config
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.rsp
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe.config
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.rsp
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.AppContext.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Console.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe.config
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.rsp
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CoreCompileInputs.cache
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CopyComplete
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.pdb
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csprojAssemblyReference.cache
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.Mvc.dll
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.xml
+C:\Users\ALPER\Desktop\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.Mvc.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll.config
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\KurumsalWebProjesi.pdb
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.exe.config
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csc.rsp
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.exe.config
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\csi.rsp
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.AppContext.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Console.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.exe.config
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\vbc.rsp
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.Mvc.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\PagedList.Mvc.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Helpers.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Mvc.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.Razor.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csprojAssemblyReference.cache
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.csproj.CopyComplete
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.dll
+C:\Users\mirza\OneDrive\Masaüstü\NİSAN 2019\mvcproje\KurumsalWebProjesi\KurumsalWebProjesi\obj\Debug\KurumsalWebProjesi.pdb

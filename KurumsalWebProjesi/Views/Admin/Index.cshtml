@@ -1,0 +1,65 @@
+﻿@model IEnumerable<KurumsalWebProjesi.Models.Model.Kategori>
+@{
+    ViewBag.Title = "Admin Anasayfa";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+
+
+<!--overview start-->
+
+
+
+<div class="row">
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box blue-bg">
+            <i class="fa fa-book"></i>
+            <div class="count">@ViewBag.BlogSayi</div>
+            <div class="title">Blog Yazisi</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+    <!--/.col-->
+
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box brown-bg">
+            <i class="fa fa-file-pdf-o"></i>
+            <div class="count">@ViewBag.KategoriSayi</div>
+            <div class="title">Kategori</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+    <!--/.col-->
+
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box dark-bg">
+            <i class="fa fa-thumbs-o-up"></i>
+            <div class="count">@ViewBag.HizmetSayi</div>
+            <div class="title">Hizmetler</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+    <!--/.col-->
+
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="info-box green-bg">
+            <i class="fa fa-comment-o"></i>
+            <div class="count">@ViewBag.YorumSayi</div>
+            <div class="title">Yorumlar</div>
+        </div>
+        <!--/.info-box-->
+    </div>
+    <!--/.col-->
+
+</div>
+
+
+
+<div class="text-right">
+    <div class="credits">
+
+        Designed by <a href="https://facebook.com/AlperKyc">KurumsalWEB</a>
+    </div>
+</div>

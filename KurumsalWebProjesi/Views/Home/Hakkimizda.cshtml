@@ -1,0 +1,15 @@
+﻿@model KurumsalWebProjesi.Models.Model.Hakkimizda
+@{
+    ViewBag.Title = "Hakkimizda";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-12">
+        <h4>Rumeli Limited A.Ş. Hakkında</h4>
+        <img src="~/Content/SiteLayout/img/dummies/dummy-1.jpg" alt="" class="fa-align-center img-responsive" />
+        <p>
+            @Html.Raw(Model.Aciklama)
+        </p>
+    </div>
+</div>
