@@ -1,0 +1,6 @@
+anasayfa:
+localhost
+
+admin panel:
+test@test.com
+test
