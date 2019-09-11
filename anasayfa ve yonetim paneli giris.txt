@@ -1,6 +1,8 @@
 anasayfa:
 localhost
 
-admin panel:
+
+
+admin panel: (localhost/yonetimpaneli)
 test@test.com
 test
